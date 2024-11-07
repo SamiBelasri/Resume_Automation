@@ -1,0 +1,8 @@
+path: /mnt/c/Users/Walid/OneDrive/Documents/2A/stage/datasets/Resume
+
+train: /mnt/c/Users/Walid/OneDrive/Documents/2A/stage/datasets/Resume/train/images
+val: /mnt/c/Users/Walid/OneDrive/Documents/2A/stage/datasets/Resume/valid/images
+test: /mnt/c/Users/Walid/OneDrive/Documents/2A/stage/datasets/Resume/test/images
+
+nc: 4
+names: ['image', 'nom', 'section', 'titre']
